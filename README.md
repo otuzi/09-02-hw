@@ -6,10 +6,12 @@
 
 Установите Zabbix Server с веб-интерфейсом.
 
-`Скриншет запушеного сервера:`
+`Скриншот запущенного сервера:`
+
 ![alt text](https://github.com/otuzi/09-02-hw/blob/main/img/image1.png)
 
-`Скриншет запушеного сервера в yandex.cloud:`
+`Скриншот запущенного сервера в yandex.cloud:`
+
 ![alt text](https://github.com/otuzi/09-02-hw/blob/main/img/image2.png)
 
 ---
